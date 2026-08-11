@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-jpqt18.privatetalks.online/sitemap.xml
